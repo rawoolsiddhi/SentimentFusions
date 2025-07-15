@@ -370,8 +370,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Deployment Time**: ~5-10 minutes on cloud platforms
 - **Uptime**: 99.9% availability on production deployments
 
----
+---![WhatsApp Image 2025-07-15 at 12 39 53_575a758c](https://github.com/user-attachments/assets/85aa0af4-c351-475f-933c-b0e6cce78310)
+![WhatsApp Image 2025-07-15 at 13 01 41_5630c122](https://github.com/user-attachments/assets/fbf2246e-79ce-4cc5-9ca5-0d078d964a68)
 
-**Built with ❤️ using Streamlit, Transformers, and modern web technologies**
+![WhatsApp Image 2025-07-15 at 13 02 05_e34db1e1](https://github.com/user-attachments/assets/b8507fb3-cdee-4f53-a9af-1b20844e7f00)
 
-*Ready for production deployment on Render.com, Railway.app, or Streamlit Cloud*
+![WhatsApp Image 2025-07-15 at 13 02 30_9342ee22](https://github.com/user-attachments/assets/cb34a678-fa4e-4657-95be-6f3066a05ab5)

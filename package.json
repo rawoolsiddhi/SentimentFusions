@@ -1,0 +1,11 @@
+{
+  "name": "sentiment-analyzer",
+  "version": "1.0.0",
+  "description": "Product Review Sentiment Analyzer - Python Streamlit Application",
+  "scripts": {
+    "build": "echo 'Python project - no build step required'"
+  },
+  "keywords": ["sentiment-analysis", "python", "streamlit"],
+  "author": "",
+  "license": "MIT"
+}

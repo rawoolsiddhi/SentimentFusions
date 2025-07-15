@@ -6,7 +6,11 @@
 
 A comprehensive, production-ready web application built with Streamlit that analyzes product reviews using advanced AI sentiment analysis. Features interactive visualizations, real-time processing, and professional-grade deployment configurations.
 
-![SentimentFusions Demo](https://via.placeholder.com/1200x600/667eea/ffffff?text=SentimentFusions+AI+Sentiment+Analyzer)
+
+
+https://github.com/user-attachments/assets/a190254e-4063-4f20-bc78-58645b635279
+
+
 
 ## 🌟 Key Features
 

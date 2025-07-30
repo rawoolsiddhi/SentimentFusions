@@ -348,11 +348,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Discussions**: Use GitHub Discussions for questions
 - **Email**: Contact maintainers for urgent issues
 
-### Deployment Support
 
-- **Render.com**: [Render Documentation](https://render.com/docs)
-- **Railway.app**: [Railway Documentation](https://docs.railway.app)
-- **Streamlit Cloud**: [Streamlit Documentation](https://docs.streamlit.io)
 
 ## 📊 Performance Metrics
 

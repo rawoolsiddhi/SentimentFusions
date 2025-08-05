@@ -32,3 +32,4 @@ optuna==3.5.0
 shap==0.44.0
 lime==0.2.0.1
 yellowbrick==1.5
+pytube==15.0.0
